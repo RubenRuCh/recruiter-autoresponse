@@ -24,7 +24,7 @@ Thanks again for reaching out!
 I look forward to hearing from you
 ```
 
-## the autoresponse not interested
+## the autoresponse not interested (first message contained details) 
 
 ```
 Thanks so much for reaching out. I'm always interested in hearing about what new and exciting opportunities are out there. As a software engineer, I'm sure you can imagine that I get a very high volume of recruiters reaching out on LinkedIn or by email. It is a wonderful position of privilege to be in and I'm thankful for it.
